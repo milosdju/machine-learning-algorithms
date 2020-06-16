@@ -1,0 +1,4 @@
+# some pycache files #
+__pycache__
+a.py
+.vscode*
